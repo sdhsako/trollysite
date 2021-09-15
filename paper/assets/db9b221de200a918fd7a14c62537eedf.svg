@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0,0,184,32" width="184" height="32">
+        <g>
+          <g
+              data-paper-data='{"isPaintingLayer":true}'
+              fill="none"
+              fill-rule="nonzero"
+              stroke="none"
+              stroke-width="0.5"
+              stroke-linecap="butt"
+              stroke-linejoin="miter"
+              stroke-miterlimit="10"
+              stroke-dasharray=""
+              stroke-dashoffset="0"
+              style="mix-blend-mode: normal;"
+          >
+            <image
+                width="184"
+                height="32"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALgAAAAgCAYAAAChBrLpAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFuSURBVHhe7dnBbsQgDEXRpP/dLtoPb62KLuKxAMtkBr3eswkLME7GQhZzHs63acMpp2nDLfj8d8sPz/XWnoAkChzSKHBIOyd61s/2DNny9zb89eqeN3ifrzb889Ge+Ac4wSGNAoc0ChzSHnrwKt/zVnv0oKe+rM/mP9p/dTwvG997dv4+3mi+l13v54+M4nGCQxoFDmkUOKRF9+D+3rjLlvsee9SDp+6lJ/K7rJ+YfxHk53u60v8AQT6p+BNG9/qr81/6+432N6X8OcEhjQKHNAoc0mZ68NU91tL4JtuDl+Z71f1GLJ7vSbuy8T2fv4W79ffz8at8fE5wSKPAIY0ChzR68OR8r7revPSePYif/V6lfCb2L+EEhzQKHNIocEi7vQc33R4ua0F+3XvlbH5BvG6PmTWKb3b/vt18vQX5X/bnBIc0ChzSKHBIi/rRVM8UyK7387N2y2/39826+/uOlPLnBIc0ChzSKHAIO44fyHQazvZ4HnQAAAAASUVORK5CYII="
+            />
+          </g>
+        </g>
+      </svg>
